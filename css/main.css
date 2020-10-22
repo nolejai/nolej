@@ -1,0 +1,69 @@
+.navbar {
+    background: #fff;
+}
+
+.nav-link,
+.navbar-brand {
+    color: #000;
+    cursor: pointer;
+}
+
+.nav-link {
+    margin-right: 1em !important;
+}
+
+.nav-link:hover {
+    background: #FDFF3280;
+    color: #000;
+    font-weight: bold
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.navbar-toggler {
+    background: #fff !important;
+}
+
+
+
+.fa-twitter-square:hover {
+    color: #FDFF32;
+    background-color:#000;
+    border-radius: 5px; 
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+.fa-twitter-square {
+    color: #000;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+.fa-envelope-square:hover {
+    color: #FDFF32;
+    background-color:#000;
+    border-radius: 5px;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+.fa-envelope-square {
+    color: #000;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
